@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding:0;
@@ -16,6 +17,7 @@ header {
 }
 
 header h1 {
+    font-family: "Nunito", sans-serif;
     position: absolute;
     right: 25px;
     top: 50%;
@@ -24,6 +26,7 @@ header h1 {
 }
 
 .navbar {
+    font-family: "Ponomar", system-ui;
     margin-left: 25px;
     position: absolute;
     top: 50%;
